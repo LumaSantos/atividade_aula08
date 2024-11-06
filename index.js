@@ -6,7 +6,7 @@ class novaPessoa {
 }
 apresentar() {
     var idade = 2024 - this.anoNascimento;
-    console.log("O " + this.nome + " é de " + this.cidadeNascimento + " e tem " + idade + " anos")
+    console.log("O(a) " + this.nome + " é de " + this.cidadeNascimento + " e tem " + idade + " anos")
 }
     }
 
